@@ -1,4 +1,4 @@
-body {
+/* body {
   height: 100%;
   margin: 0;
   padding:0;
@@ -10,6 +10,13 @@ body {
   height:100%;
   left:0;
   top:0;
-  display: flex;
+} */
+
+.center{
+  padding-top: 10%;
+  position: absolute;
+  top:25%;
+  left: 47%;
+  transform: translate(-50%,-50%);
 }
 
