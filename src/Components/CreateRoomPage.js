@@ -169,7 +169,6 @@ CreateRoomPage.defaultProps = {
     guest_can_pause: true,
     update: false,
     roomCode: null,
-    //updateCallback: () => {},
 };
 
 export default CreateRoomPage;
